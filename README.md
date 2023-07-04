@@ -1,6 +1,6 @@
 # bank_customer_segmentation
 
-# 1. BACKGROUNDS
+# 1. BACKGROUND
 **1.1 Project Background**
 
 This project is made to fulfill the project for LPS POC.
