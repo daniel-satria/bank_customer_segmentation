@@ -1,4 +1,4 @@
-# bank_customer_segmentation
+# Bank Customer Segmentation
 
 # 1. BACKGROUND
 **1.1 Project Background**
